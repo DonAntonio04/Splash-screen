@@ -1,0 +1,15 @@
+C:\Users\cd18\Desktop\Toño\Splash screen_JAMB\Splash screen_JAMB\bin\Debug\netstandard2.0\Splash screen_JAMB.deps.json
+C:\Users\cd18\Desktop\Toño\Splash screen_JAMB\Splash screen_JAMB\bin\Debug\netstandard2.0\Splash screen_JAMB.dll
+C:\Users\cd18\Desktop\Toño\Splash screen_JAMB\Splash screen_JAMB\bin\Debug\netstandard2.0\Splash screen_JAMB.pdb
+C:\Users\cd18\Desktop\Toño\Splash screen_JAMB\Splash screen_JAMB\obj\Debug\netstandard2.0\Splash screen_JAMB.csproj.AssemblyReference.cache
+C:\Users\cd18\Desktop\Toño\Splash screen_JAMB\Splash screen_JAMB\obj\Debug\netstandard2.0\Splash screen_JAMB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd18\Desktop\Toño\Splash screen_JAMB\Splash screen_JAMB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd18\Desktop\Toño\Splash screen_JAMB\Splash screen_JAMB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd18\Desktop\Toño\Splash screen_JAMB\Splash screen_JAMB\obj\Debug\netstandard2.0\Splash screen_JAMB.AssemblyInfoInputs.cache
+C:\Users\cd18\Desktop\Toño\Splash screen_JAMB\Splash screen_JAMB\obj\Debug\netstandard2.0\Splash screen_JAMB.AssemblyInfo.cs
+C:\Users\cd18\Desktop\Toño\Splash screen_JAMB\Splash screen_JAMB\obj\Debug\netstandard2.0\Splash screen_JAMB.csproj.CoreCompileInputs.cache
+C:\Users\cd18\Desktop\Toño\Splash screen_JAMB\Splash screen_JAMB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd18\Desktop\Toño\Splash screen_JAMB\Splash screen_JAMB\obj\Debug\netstandard2.0\Splash screen_JAMB.dll
+C:\Users\cd18\Desktop\Toño\Splash screen_JAMB\Splash screen_JAMB\obj\Debug\netstandard2.0\refint\Splash screen_JAMB.dll
+C:\Users\cd18\Desktop\Toño\Splash screen_JAMB\Splash screen_JAMB\obj\Debug\netstandard2.0\Splash screen_JAMB.pdb
+C:\Users\cd18\Desktop\Toño\Splash screen_JAMB\Splash screen_JAMB\obj\Debug\netstandard2.0\ref\Splash screen_JAMB.dll
